@@ -139,7 +139,7 @@ next problem
 '''
 pythagorean theorem ➜
 a² + b² = c²
-right triangles: c = hypotenuse (longest side across from 90° angle)
+right triangles ➜ c = hypotenuse (longest side across from 90° angle)
 '''
     
     c = 16
@@ -159,11 +159,61 @@ right triangles: c = hypotenuse (longest side across from 90° angle)
 next problem
 '''
 '''
-slope = rise over run
-m = (y₂ - y₁)
-    ━━━━━━━━━
-    (x₂ - x₁)
+slope ➜ rise over run ➜
+    m  =  (y₂ - y₁)
+          ━━━━━━━━━
+          (x₂ - x₁)
+'''
+
+      (2, (-2))  ➜  (point-1)
+        
+      ((-3), 2)  ➜  (point-2)
+
+m  =  (2 - (-2))
+     #━━━━━━━━━━━
+      ((-3) - 2)
+
+      (2 + 2)
+     #━━━━━━━━
+      (-5)
+
+      4
+     #━━━━━━━━
+      (-5)
+
+[m  =  -(4 / 5)]
 
 '''
- #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    
+next problem
+'''
+    (1 / 2x)  +  (4 / 9x)
 
+'''
+least common denominator 
+'''
+
+    (1 / 2x)  +  (4 / 9x)
+       * 9          * 2
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    (9 / 18x)  +  (8 / 18x)  =  
+    [17 / 18x]
+
+'''
+next problem
+'''
+    (-2)(5x + (-5)) + 6x  =  6(x + 2)
+    (-10x) + 10 + 6x  =  6x + 12
+    
+    (-4x) + 10   =  6x + 12
+    + 4x  - 12    + 4x - 12
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 
+    (-2)  =  10x
+   / 10    / 10
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    [- (1 / 5)  =  x]
+
+
+
+    
