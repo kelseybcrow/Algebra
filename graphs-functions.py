@@ -4,14 +4,12 @@ next problem
     f(x)  =  4x² + (-1)
 '''
 function translation: [vertical] ➜
-    moving upward   ➜  add units to the tail end
-    moving downward   ➜  subtract units from the tail end
-'''
-'''
-function translation: [horizontal] ➜
-    moving left   ➜  add units inside
-    moving right  ➜  subtract units inside 
+    moving upward  ➜  add units to the end of the function equation
+    moving downward  ➜  subtract units from end
 
+function translation: [horizontal] ➜
+    moving left  ➜  add units inside
+    moving right  ➜  subtract units inside 
 ''' 
     h(x)  =  4x² + (-1) + 3
     [h(x)  =  4x² + 2]
@@ -101,6 +99,66 @@ right 1, up (1/3),(3/3),(5/3) shortcut
     [-1, (1/3)]
     [-2, 4/3]
     [-3, 9/3]
+
+'''
+next problem
+'''
+    #translate the graph of f(x) to y = f(x) + k (vertical translation) or y = f(x - h) (horizontal translation)
+'''
+function translation: [vertical] ➜
+    moving upward  ➜  add units to the end of the function equation
+    moving downward  ➜  subtract units from end
+
+function translation: [horizontal] ➜
+    moving left  ➜  add units inside
+    moving right  ➜  subtract units inside 
+''' 
+
+    y = f(x) + 2
+    #it's addition of the constant, so ➜ vertical translation upward by 2 units for each point on the graph
+
+    y = g(x + 5)
+    #it's addition inside the argument, so ➜ horizontal translation to the left by 5 units for each point on the graph
+
+'''
+next problem
+'''
+    y = f(x) + (-4)
+    #it's subtraction of the constant, so ➜ vertical translation downward by 4 units for each point on the graph
+
+    y = g(x + 2)
+    #it's addition inside the argument, so ➜ horizontal translation to the left by 2 units for each point on the graph
+
+'''
+next problem
+'''
+    y = f(x -5)
+    #it's subtraction inside the argument, so ➜ horizontal translation to the right by 5 units for each point on the graph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
