@@ -83,7 +83,7 @@ next
 [no solution]
 
 '''
-next problem
+next
 '''
 (-5)|y|  =  (-15)
 ÷ (-5)    ÷ (-5)
@@ -93,7 +93,7 @@ next problem
 
 
 '''
-next problem
+next
 '''
 (-4)|w|  =  0
 ÷ (-4)    ÷ (-4)
@@ -103,7 +103,7 @@ next problem
 
 
 '''
-next problem
+next
 '''
     (-2)(y + 2) + 7  =  3(y + 6)
     (-2y) + (-4) + 7  =  3y + 18
@@ -123,7 +123,7 @@ next problem
     [(-3)  =  y]
 
 '''
-next problem
+next
 '''
     4(v + 1) + (-7)  =  3(v - 1) + v
     4v + 4 + (-7)  =  3v + (-3) + v
@@ -136,7 +136,7 @@ next problem
     [all real numbers are solutions]
 
 '''
-next problem
+next
 '''
     (-3)(y + 1) + 7y  =  4(y + 1) + (-7)
     (-3y) + (-3) + 7y  =  4y + 4 + (-7)
@@ -149,7 +149,7 @@ next problem
     [all real numbers are solutions]
 
 '''
-next problem
+next
 '''
     2(v + 1) + 4v  =  3(2v - 1) + 8
     2v + 2 + 4v  =  6v + (-3) + 8
@@ -162,7 +162,7 @@ next problem
     [false statement; no solution]
 
 '''
-next problem
+next
 '''
     5(2 + x) + (-x)  =  10 + 4(x + 1)
     10 + 5x + (-x)  =  10 + 4x + 4
@@ -175,7 +175,7 @@ next problem
     [false statement; no solution]
 
 '''
-next problem
+next
 '''
     (-3)(w + 5) + 2  =  4(w +2)
     (-3w) + (-15) + 2  =  4w + 8
@@ -195,7 +195,7 @@ next problem
     [(-3)  =  w]
 
 '''
-next problem
+next
 '''
     |2v + (-10)|  =  4
     
@@ -220,13 +220,13 @@ next problem
     [v  =  7 and 3]
 
 '''
-next problem
+next
 '''
     |3y + 6|  =  (-3)
     [no solution]
 
 '''
-next problem
+next
 '''
     |4x + 8|  =  0
 
@@ -240,6 +240,150 @@ next problem
 
     [x  =  (-2)]
     [only one answer because 0 is neither positive nor negative]
+
+'''
+next
+'''
+    factor ➜
+    x² + 10x + 25
+'''
+a² + 2(a)(b) + b² = (a + b)²
+'''
+    x = (a)
+    5 = (b)   
+
+    a² + 2(a)(b) + b² = (a + b)²
+    [x² + 2(x)(5) + 5² = (x + 5)²]
+
+'''
+next
+'''
+'''
+a² + (-2)(a)(b) + b² = (a - b)²
+''' 
+    u² + (-8u) + 16
+   
+    u = (a)
+    4 = (b)
+
+    a² + (-2)(a)(b) + b² = (a - b)²
+    [u² + (-2)(u)(4) + 4² = (u - 4)²]
+
+'''
+next
+'''
+'''
+a² + (-2)(a)(b) + b² = (a - b)²
+''' 
+    u² + (-16u) + 64
+   
+    u = (a)
+    8 = (b)
+
+    a² + (-2)(a)(b) + b² = (a - b)²
+    [u² + (-2)(u)(8) + 8² = (u - 8)²]
+
+'''
+next
+'''
+    x² + 18x + 81
+
+    x = (a)
+    9 = (b)
+
+    a² + 2(a)(b) + b² = (a + b)²
+    [x² + 2(x)(9) + 9² = (x + 9)²]  
+
+ '''
+ next
+ '''
+     w² + 10w + 21 = 0
+
+     #need two numbers that multiply to ➜ 21 and add up to ➜ 10
+     a + b = 10
+     a * b = 21
+     
+     (w + 3)(w + 7) = 0
+     w + 3 = 0  or  w + 7 = 0
+     w = (-3)  or  w = (-7)
+     [w = -3 and -7]
+
+'''
+next
+'''
+    y² + (-2)y + 1 = 0
+
+    #need two numbers that multiply to ➜ 1 and add up to ➜ (-2)
+    a + b = -2
+    a * b = 1
+
+    (y + (-1))(y + (-1)) = 0
+    y + (-1) = 0  or  y + (-1) = 0
+    y = 1  or  y = 1
+    [y = 1]
+
+'''
+next
+'''
+    y² + (-8)y + 12 = 0
+
+    #need two numbers that multiply to ➜ 12 and add up to ➜ (-8)
+    a + b = (-8)
+    a * b = 12
+
+    (y + (-6))(y + (-2)) = 0
+    y + (-6) = 0  or  y + (-2) = 0
+    y = 6  or  y = 2
+    [y = 6 and 2]
+
+'''
+next
+'''
+    9 + 3x  ≥  (-6)
+  (-9)       (-9)
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    3x  ≥  (-15)
+  / 3     / 3
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    [x ≥ (-5)]
+
+'''
+next
+'''
+    (x / 6) + (-2)  <  (-8)
+              + 2    + 2
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    (x / 6)  <  (-6)
+       * 6    * 6
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    [x < (-36)]
+
+'''
+next
+'''
+    9  >  (-3) + 4x
+  + 3     + 3
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    12  >  4x
+   / 4   / 4
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    [3 > x]
+
+
+
+
+
+
+
+
+
+
 
 
 
