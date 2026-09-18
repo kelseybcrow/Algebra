@@ -370,20 +370,121 @@ next
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     12  >  4x
-   / 4   / 4
+   / 4    / 4
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     [3 > x]
+    
+'''
+next
+'''
+    #∞ always has a (parenthesis), never a [bracket]
 
+    x ≤ (-4) =
+    ()-∞, -4[]
 
+    #'-∞' because it's all the negative numbers up to and including (-4)
+    
+'''
+next
+'''
+    x ≥ (-5) =
+    []-5, ∞()
+    
+'''
+next
+'''
+    (-10) + (-3v)  <  8
+    + 10           + 10
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    (-3v)  <  18
+  / (-3)   / (-3)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    [v  >  (-6)]
+   
+    #the inequality sign gets flipped when you ➜ divide by a negative number 
+    
+'''
+next
+'''
+    (-2u) + 25  >  15
+          (-25)  (-25)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    (-2u)  >  (-10)
+  / (-2)    / (-2)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    [u  <  5]
 
+    #the inequality sign gets flipped when you ➜ divide by a negative number 
+    
+'''
+next
+'''
+    6  ≤  3w + (-12)
+ + 12          + 12
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    18  ≤  3w
+   / 3   / 3
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    [6 ≤ w]
+    
+'''
+next
+'''
+    M = {(-2), 1, 5, 6, 7}
+    I = {0, 1, 3, 7}
 
+    #union combines all elements from both sets, without duplicates
+    M ∪ I = {(-2), 0, 1, 3, 5, 6, 7}
+    
+    #intersection includes only elements that are in both sets
+    M ∩ I = {1, 7}
+
+    #the phrasing is (elements) not (terms) because ➜ sets contain distinct elements, not algebraic terms
+    
+'''
+next
+'''
+    E = {a, g, j}
+    G = {c, g, k}
+
+    #union combines all elements from both sets, without duplicates
+    E ∪ G = {a, c, g, j, k}
+
+    #intersection includes only elements that are in both sets
+    E ∩ G = {g}
+    
+'''
+next
+'''
+    A = {g, h, k}
+    L = {a, d, h}
+
+    #union combines all elements from both sets, without duplicates
+    A ∪ L = {a, d, g, h, k}
+
+    #intersection includes only elements that are in both sets
+    A ∩ L = {h}
+    
+'''
+next
+'''
+    I = {(-1), 2, 3, 4, 7, 8}
+    H = {2, 3, 5, 7}
+
+    #union combines all elements from both sets, without duplicates
+    I ∪ H = {(-1), 2, 3, 4, 5, 7, 8}
+
+    #intersection includes only elements that are in both sets
+    I ∩ H = {2, 3, 7}
+
+  
 
 
 
