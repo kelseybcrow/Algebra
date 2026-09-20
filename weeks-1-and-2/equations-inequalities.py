@@ -483,10 +483,258 @@ next
 
     #intersection includes only elements that are in both sets
     I ∩ H = {2, 3, 7}
+    
+'''
+next
+'''
+#case-1 ➜ the expressions are equal ➜
 
+    | 4x + (-5) |  =  | 4x + (-9) |
+
+    4x + (-5)  =  4x + (-9)
+  (-4x)         (-4x)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    (-5)  =  (-9)
+    [no solution]
+
+#case-2 ➜ the expressions are opposites ➜
+#we strip away the absolute value bars and force one side to be negative by multiplying by (-1) ➜
+
+    | 4x + (-5) |  =  | 4x + (-9) |
+    | 4x + (-5) |  =  (-1)| 4x + (-9) |
+    4x + (-5)  =  (-1)(4x + (-9))
+
+    4x + (-5)  =  (-4x + 9)
+  + 4x            + 4x
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 
+    8x + (-5)  =  9
+         + 5    + 5
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    8x  =  14
+  / 8     / 8
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    x  =  14 / 8
+    #divide both numerator and denominator by 2 ➜
+    [x  =  7 / 4]
+
+#the cases are like an 'OR' logic path ➜ does case-1 have a solution? no. does case-2 have a solution? yes ➜ that solution becomes the only solution for the entire equation
+    
+'''
+next
+'''
+#case-1 ➜ the expressions are equal ➜
+
+    | 4x + (-7) |  =  | (-1) + (-5x) |
+
+    4x + (-7)  =  (-1) + (-5x)
+  + 5x                   + 5x
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    9x + (-7)  =  (-1)
+         + 7      + 7
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    9x  =  6
+  / 9    / 9
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    x  =  6 / 9
+    #divide both numerator and denominator by 3 ➜
+    [x  =  2 / 3]
+
+#case-2 ➜ the expressions are opposites ➜
+#remove the absolute value bars and multiply one side by (-1) ➜
+
+    | 4x + (-7) |  =  | (-1) + (-5x) |
+    | 4x + (-7) |  =  (-1)| (-1) + (-5x) |
+
+    4x + (-7)  =  (-1)((-1) + (-5x))
+
+    4x + (-7)  =  1 + 5x
+  (-5x)             (-5x)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    (-x) + (-7)  =  1
+           + 7    + 7
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    (-x)  =  8
+   /(-1)  /(-1)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    [x  =  (-8)]
+
+    #two solutions ➜
+    [x  =  2 / 3]
+    [x  =  (-8)]
+    
+'''
+next
+'''
+#case-1 ➜ the expressions are equal ➜
+
+    | 3u + 6 |  =  | (-3) + (-3u) |
+
+    3u + 6  =  (-3) + (-3u)
+  + 3u (-6)    (-6)   + 3u
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    6u  =  (-9)
+  / 6      / 6
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    u  =  (-9) / 6
+    #divide both numerator and denominator by 3 ➜
+    [u  =  (-3) / 2 ]
+
+#case-2 ➜ the expressions are opposites ➜
+#remove the absolute value bars and multiply one side by (-1) ➜
+
+    | 3u + 6 |  =  | (-3) + (-3u) |
+    | 3u + 6 |  =  (-1)| (-3) + (-3u) |
+
+    3u + 6  =  (-1)((-3) + (-3u))
+
+    3u + 6  =  3 + 3u
+  (-3u)          (-3u)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    6  =  3
+    [no solution]
+
+    #one solution ➜
+    [u  =  (-3) / 2 ]
+     
+ '''
+ next
+ '''
+     (-3)  <  3x + 3  <  9          
+     (-3)        (-3)  (-3)
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     
   
+     (-6)  <  3x  <  6
+     / 3    / 3    / 3
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  
+     (-2)  <  x  <  2
+    
+'''
+next
+'''
+    4x + (-4)  >  12   or   2x + 4  ≤  (-2)
 
+    4x + (-4)  >  12 
+         + 4     + 4
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    4x  >  16
+  / 4     / 4
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    [x  >  4]
+
+    or
+
+    2x + 4  ≤  (-2)
+       (-4)    (-4)
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    2x  ≤  (-6)
+  / 2      / 2
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    [x  ≤  (-3)]
+
+    #solution set ➜
+    [x  ≤  (-3)] or [x  >  4]
+    
+'''
+next
+'''
+    (-2)  <  2x + (-2)  ≤  10 
+    + 2           + 2     + 2
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    0  <  2x  ≤  12
+  / 2   / 2     / 2
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    [0  <  x  ≤  6]
+     
+'''
+next
+'''
+     | y + (-3) |  >  5
+'''
+greater than ➜ great-OR than ➜ [or] statement
+'''
+#positive direction ➜
+     y + (-3)  >  5
+         + 3    + 3
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    [y  >  8]
+
+#negative direction ➜
+     y + (-3)  <  (-5)
+         + 3      + 3
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    [y  <  (-2)]
+
+    #solution set ➜
+    [y  <  (-2)] or [y  >  8]
+     
+'''
+next
+'''
+'''
+less than ➜ less-th-AND ➜ [and] statement
+'''
+     | y + (-8) |  ≤  2
+
+#positive direction ➜
+     y + (-8)  ≤  2
+         + 8    + 8
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    [y  ≤  10]
+
+#negative direction ➜
+     y + (-8)  ≥  (-2)
+         + 8      + 8
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    [y  ≥  6]
+
+    #solution set ➜
+    [y  ≥  6] and [y  ≤  10]
+    [6  ≤  y  ≤  10]
+    
+'''
+next
+'''
+'''
+less than ➜ less-th-AND ➜ [and] statement
+'''     
+    | w + 2 |  <  4
+
+#positive direction ➜
+    w + 2  <  4
+      (-2)  (-2)
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    [w  <  2]
+
+#negative direction ➜
+    w + 2  >  (-4)
+      (-2)    (-2)
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    [w  >  (-6)]
+
+    #solution set ➜
+    [w  >  (-6)] and [w  <  2]
+    [(-6)  <  w  <  2]
 
 
 
