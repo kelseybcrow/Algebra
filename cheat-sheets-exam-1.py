@@ -1,3 +1,6 @@
+
+#always check the input order, they like to switch it up to see if we're paying attention
+
 '''
 TRANSLATIONS CHEAT SHEET  
 
@@ -21,3 +24,34 @@ horizontal  ➜  y = f(x - h)
 #explain what it means for a relation to be a function ➜  
     #each input ÷ domain ÷ x-value must map to only one single output ÷ range ÷ y-value
     #the vertical line test is an easy way to check
+
+#finding the slope and y-intercept of a line in standard form (a)x + (b)y  =  c ➜  
+
+    a  =  
+    b  =  
+    c  =  
+
+#instead of rearranging the entire equation into slope-intercept form (y = mx + b), you can use the coefficients directly ➜  
+
+#slope ➜  
+    m  =  - (a ÷ b)
+
+#y-intercept ➜  
+    b  =  (c ÷ b)
+
+#find x-intercept and y-intercept of the line using standard form (a)x + (b)y  =  c ➜      
+
+    a  =  
+    b  =  
+    c  =  
+
+#use the coefficients directly ➜  
+
+    x_intercept  =  (c ÷ a)
+
+    y_intercept  =  (c ÷ b)
+
+
+
+
+

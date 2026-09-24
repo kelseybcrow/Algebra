@@ -327,9 +327,193 @@ next problem
     = |(-8) + (-13)|
     = |-21|
     [h(12) = 21]
+    
+'''
+next problem
+'''
+#give all  x -intercepts and  y -intercepts shown
+x-intercepts  =  ((-1), 0), (3, 0)
 
+y-intercepts  =  (0, (-3))
 
+    
+'''
+next problem
+'''
+#give all  x -intercepts and  y -intercepts shown
+x-intercepts  =  ((-2), 0), (4, 0)
 
+y-intercepts  =  (0, 2)
+    
+'''
+next problem
+'''
+#give all  x -intercepts and  y -intercepts shown
+x-intercepts  =  ((-2), 0)
+
+y-intercepts  =  (0, 2)
+    
+'''
+next problem
+'''
+#finding the slope and y-intercept of a line given its equation in standard form (a)x + (b)y  =  c
+
+    6x + 3y  =  3
+
+    a  =  6
+    b  =  3
+    c  =  3
+
+#instead of rearranging the entire equation into slope-intercept form (y = mx + b) every time, you can find the answers directly using the coefficients ➜  
+
+#slope ➜  
+    m  =  - (a ÷ b)
+
+    m  =  - (6 ÷ 3)
+    m  =  - (2)
+    m  =  (-2)
+
+#y-intercept ➜  
+    b  =  (c ÷ b)
+
+    b  =  (3 ÷ 3)
+    b  =  1
+    
+'''
+next problem
+'''
+#finding the slope and y-intercept of a line given its equation in standard form (a)x + (b)y  =  c
+
+    (-5x) + (-1y)  =  1
+
+    a  =  (-5)
+    b  =  (-1)
+    c  =  1
+
+#instead of rearranging the entire equation into slope-intercept form (y = mx + b) every time, you can find the answers directly using the coefficients ➜  
+
+#slope ➜  
+    m  =  - (a ÷ b)
+
+    m  =  - ((-5) ÷ (-1))
+    m  =  - (5)
+    m  =  (-5)
+
+#y-intercept ➜  
+    b  =  (c ÷ b)
+
+    b  =  (1 ÷ (-1))
+    b  =  (-1)
+    
+'''
+next problem
+'''
+#finding the slope and y-intercept of a line given its equation in standard form (a)x + (b)y  =  c
+
+    (3x) + (-2y)  =  4
+
+    a  =  3
+    b  =  (-2)
+    c  =  4
+
+#instead of rearranging the entire equation into slope-intercept form (y = mx + b) every time, you can find the answers directly using the coefficients ➜  
+
+    a  =  3
+    b  =  (-2)
+    c  =  4
+
+#slope ➜  
+    m  =  - (a ÷ b)
+
+    m  =  - (3 ÷ (-2))
+    m  =  - (- (3 ÷ 2))
+#double negatives turn into a positive ➜  
+    [m  =  (3 ÷ 2)]
+
+#y-intercept ➜  
+    b  =  (c ÷ b)
+
+    b  =  (4 ÷ (-2))
+    [b  =  (-2)]
+    
+'''
+next problem
+'''
+#find x-intercept and y-intercept of the line using standard form ➜      
+    6x + 9y  =  (-14)
+
+    a  =  6
+    b  =  9
+    c  =  (-14)
+
+#use the coefficients directly ➜  
+#x-intercept ➜  
+    x-cept  =  (c ÷ a)
+
+    x-cept  =  ((-14) ÷ 6)
+
+#divide by gcf of 2 ➜  
+    x-cept  =  ((-7) ÷ 3)
+    [x-cept  =  (-(7 ÷ 3), 0)]
+
+#y-intercept ➜  
+    y-cept  =  (c ÷ b)
+
+    y-cept  =  (0, (-14) ÷ 9)
+    
+#no gcf ➜  
+    [y-cept  =  (0, -(14 ÷ 9)]
+    
+'''
+next problem
+'''
+#find x-intercept and y-intercept of the line using standard form ➜      
+    (-8x) + 3y  =  11
+
+    a  =  (-8)
+    b  =  3
+    c  =  11
+
+#use the coefficients directly ➜  
+#x-intercept ➜  
+
+    x-cept  =  (c ÷ a)
+
+    x-cept  =  (11 ÷ (-8))
+    [x-cept  =  (-(11 ÷ 8), 0)]
+
+#y-intercept ➜  
+    y-cept  =  (c ÷ b)
+
+    y-cept  =  (11 ÷ 3)
+    [y-cept  =  (0, (11 ÷ 3))]
+    
+'''
+next problem
+'''
+#find x-intercept and y-intercept of the line using standard form ➜      
+    3x + (-2y)  =  (-8)
+
+    a  =  3
+    b  =  (-2)
+    c  =  (-8)
+
+#use the coefficients directly ➜  
+#x-intercept ➜  
+
+    x-cept  =  (c ÷ a)
+
+    [x-cept  =  ((-8) ÷ 3)]
+
+#y-intercept ➜  
+    y-cept  =  (c ÷ b)
+
+    y-cept  =  ((-8) ÷ (-2))
+
+#divide by gcf of (-2) ➜
+    y-cept  =  ((-8) ÷ (-2))
+    [y-cept  =  (4 ÷ 1)]
+    
 
 
 
