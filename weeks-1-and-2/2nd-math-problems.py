@@ -22,8 +22,8 @@ simplifying the square root of a whole number < 100
 applying the negative exponent rule to a fraction
 '''
 (3 / 8)⁻²
-'''
 
+'''
 negative exponent rule
 (a / b)⁻ⁿ = (b / a)ⁿ = (b² / a²)
 '''
