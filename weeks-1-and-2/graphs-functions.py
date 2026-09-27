@@ -514,6 +514,16 @@ next problem
     y-cept  =  ((-8) ÷ (-2))
     [y-cept  =  (4 ÷ 1)]
     
+'''
+next problem
+'''
+#Graphing a line through a given point with a given slope
+
+    m  =  (-2 / 3)
+    p  =  (5, (-3))
+
+#use the manual rise over run trick
+    
 
 
 
