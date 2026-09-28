@@ -735,6 +735,174 @@ less than ➜ less-th-AND ➜ [and] statement
     #solution set ➜
     [w  >  (-6)] and [w  <  2]
     [(-6)  <  w  <  2]
+    
+'''
+next problem
+'''
+# Solving a linear equation with several occurrences of the variable: Variables on both sides and fractional coefficients
+
+    (-7v) + (1/2)   =   (-2/3)(v) + (-1/3)
+
+    # LCD is 6
+    (6)*[(-7v) + (1/2)]   =   (6)*[(-2/3)(v) + (-1/3)]
+
+    (-42v) + 3   =   (-4v) + (-2)
+     + 4v  (-3)      + 4v    (-3)
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    (-38v)  =  (-5)
+  / (-38)   / (-38)
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    v  =  (5/38)
+    
+'''
+next problem
+'''
+    (-4/5)u + (-2)   =   (4/3)u + (7/3)
+
+    # LCD is 15
+    # multiply every term by 15 to clear the fractions
+
+    (-12u) + (-30)   =   20u + 35
+        + 12u + (-35)   =   + 12u + (-35)
+  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    (-65)   =   32u 
+        / 32   =   /32
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    (-65/32)   =   u
+     
+ '''
+ next problem
+ '''
+    (7/2)x + (-2/3)   =   (-5x) + (-7/3)
+
+    # LCD = 6
+    # multiply all terms by 6 ➜ 
+
+    6 * [(7/2)x + (-2/3)]   =   6 * [(-5x) + (-7/3)]
+
+    # distribute the 6 to all terms ➜ 
+    21x + (-4)   =   (-30x) + (-14)
+        + 30x + 4   =   + 30x + 4
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    51x   =   (-10)
+        / 51   =   / 51
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    x   =   (-10/51)
+    
+'''
+next problem
+'''
+#Solving a compound linear inequality: Interval notation
+    2w + 3   ≤   9     
+        + (-3)   ≤   + (-3)
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    2w   ≤   6
+        / 2   ≤   / 2
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    w   ≤   3
+
+    or
+
+    3w + 1   <   19
+        (-1)   <   (-1)
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    3w   <   18
+        / 3   <   /3
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    
+    w   <   18/3
+    w   <   6   
+    
+# solution set ➜ 
+    w   ≤   3   or    w   <   6
+
+# any number that is ≤ 3 is *ALREADY* ≤ 6  
+
+# therefore, the region w < 6 completely swallows up and includes the region w ≤ 3
+
+# the combined total solution is simply ➜  
+    w < 6
+
+# interval notation ➜ 
+    (-∞,6)
+    
+'''
+next problem
+'''
+    4v + (-1)   ≤   23
+      + 1   ≤   + 1
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    4v   ≤   24
+      / 4   ≤   / 4
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    v   ≤   (24/4)   
+
+    # divide by GCF ➜ 4   
+    v   ≤   6      
+
+    or
+
+    2v + (-3)   >   1    
+      + 3   >   + 3
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    2v    >   4     
+      / 2   >   / 2
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    v   >   2
+
+# solution set ➜ 
+    v   ≤   6  or  v   >   2
+
+# interval notation; every single number on the number line is included ➜ 
+    (-∞, ∞)
+    
+'''
+next problem
+'''
+    (-2y)   <   (-6)
+      / (-2)    >   / (-2)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# dividing an inequality by a negative number ➜ flips the inequality sign
+    y   >   3      
+
+    or
+
+    3y + 2    <   (-13)
+      + (-2)    <   + (-2)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    3y    <   (-15)      
+      / 3   <   / 3
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    y   <   (-5)  
+
+    # solution set
+    y   <   (-5)   or   y   >   3
+
+    (-∞, (-5))   or   (3, ∞)
+
+    # "or" ➜ ∪
+    (-∞, (-5)) ∪ (3, ∞)
+       
+
+
+    
+      
+
+
+
 
 
 

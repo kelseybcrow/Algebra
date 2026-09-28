@@ -524,15 +524,129 @@ next problem
 
 #use the manual rise over run trick
     
+'''
+next problem
+'''
+# TODO: EXAM_USING_BOTH_SLOPE_AND_POINT_SLOPE_FORMULAS
+# Writing the equation of a line through two given points
+    ((-5), 4)
+    (4, (-2))
 
+# use two formulas in sequence ➜ 
 
+# slope formula ➜ 
+    slope = (y₂ - y₁)
+          #━━━━━━━━━━━
+            (x₂ - x₁)  
 
+            ➜
+# point-slope formula
+    (y - y₁) = m * (x - x₁)    
 
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    
+    slope = ((-2) - 4)
+          #━━━━━━━━━━━
+            (4 - (-5))  
 
+    slope = (-6)
+          #━━━━━━
+            9  
 
+    # divide by GCF ➜ 3            
 
+    slope = ((-2) / 3)
+    slope = (-2/3)
 
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            ➜
 
+# point-slope formula
+    (y - 4) = m * (x - (-5))    
+
+    (y - 4) = (-2/3) * (x - (-5))    
+
+# double negative ➜ becomes positive
+    (y - 4) = (-2/3) * (x + 5)    
+
+# TODO: EXAM_Clearing_Denominator_Shortcut
+
+# use Clearing the Denominator shortcut; multiply both sides by the denominator of 3 ➜     
+    3 * [(y - 4)]   =   3 * [(-2/3) * (x + 5)]   
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# since the slope and the binomial are being multiplied instead of added, we do NOT distribute the 3 to both terms 
+    
+    3y + (-12)   =   (-2) * (x + 5)
+
+    3y + (-12)   =   (-2x) + (-10)
+      + 12   =   + 12
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    3y   =   (-2x) + 2
+      / 3   =   / 3
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    y   =   (-2/3)x + (2/3)      
+    
+'''
+next problem
+'''
+# Writing the equation of a line through two given points
+    ((-1), 4)
+    ((-5), (-6))
+
+# use two formulas in sequence ➜ 
+
+# slope formula ➜ 
+    slope = (y₂ - y₁)
+          #━━━━━━━━━━━
+            (x₂ - x₁)  
+
+# point-slope formula ➜
+    (y - y1) = m * (x - x1)    
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    slope = ((-6) - 4)
+          #━━━━━━━━━━━
+            ((-5) - (-1))  
+
+    slope = (-10)
+          #━━━━━━
+            (-4)  
+
+    # divide by GCF ➜ 2            
+
+    slope = (5/2)
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            ➜
+# point-slope formula
+    (y - 4) = m * (x - (-1))    
+
+    (y - 4) = (5/2) * (x - (-1))    
+
+# double negative ➜ becomes positive
+    (y - 4) = (5/2) * (x + 1)    
+
+# use Clearing the Denominator shortcut; multiply both sides by the denominator of 2 ➜   
+    2 * [(y - 4)]   =   2 * [ (5/2) * (x + 1) ]   
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# since the slope and the binomial are being multiplied instead of added, we do NOT distribute the 3 to both terms 
+
+    2y + (-8)   =   5 * (x + 1)
+
+    2y + (-8)   =   (5x) + 5
+       + 8   =          + 8
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    2y   =   (5x) + 13
+     / 2  =   / 2   
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    y   =   (5/2)x + (13/2)    
 
 
 
