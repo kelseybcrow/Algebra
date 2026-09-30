@@ -114,7 +114,7 @@ next
 
     3  =  5y + 18
   - 18       - 18
- #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     (-15)  =  5y
      ÷ 5     ÷ 5
@@ -198,7 +198,7 @@ next
 next
 '''
     |2v + (-10)|  =  4
-    
+
 
     2v + (-10)  =  4
        + 10      + 10
@@ -250,7 +250,7 @@ next
 a² + 2(a)(b) + b² = (a + b)²
 '''
     x = (a)
-    5 = (b)   
+    5 = (b)
 
     a² + 2(a)(b) + b² = (a + b)²
     [x² + 2(x)(5) + 5² = (x + 5)²]
@@ -260,9 +260,9 @@ next
 '''
 '''
 a² + (-2)(a)(b) + b² = (a - b)²
-''' 
+'''
     u² + (-8u) + 16
-   
+
     u = (a)
     4 = (b)
 
@@ -274,9 +274,9 @@ next
 '''
 '''
 a² + (-2)(a)(b) + b² = (a - b)²
-''' 
+'''
     u² + (-16u) + 64
-   
+
     u = (a)
     8 = (b)
 
@@ -292,7 +292,7 @@ next
     9 = (b)
 
     a² + 2(a)(b) + b² = (a + b)²
-    [x² + 2(x)(9) + 9² = (x + 9)²]  
+    [x² + 2(x)(9) + 9² = (x + 9)²]
 
  '''
  next
@@ -302,7 +302,7 @@ next
      #need two numbers that multiply to ➜ 21 and add up to ➜ 10
      a + b = 10
      a * b = 21
-     
+
      (w + 3)(w + 7) = 0
      w + 3 = 0  or  w + 7 = 0
      w = (-3)  or  w = (-7)
@@ -374,7 +374,7 @@ next
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     [3 > x]
-    
+
 '''
 next
 '''
@@ -384,13 +384,13 @@ next
     ()-∞, -4[]
 
     #'-∞' because it's all the negative numbers up to and including (-4)
-    
+
 '''
 next
 '''
     x ≥ (-5) =
     []-5, ∞()
-    
+
 '''
 next
 '''
@@ -403,9 +403,9 @@ next
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     [v  >  (-6)]
-   
-    #the inequality sign gets flipped when you ➜ divide by a negative number 
-    
+
+    #the inequality sign gets flipped when you ➜ divide by a negative number
+
 '''
 next
 '''
@@ -419,8 +419,8 @@ next
 
     [u  <  5]
 
-    #the inequality sign gets flipped when you ➜ divide by a negative number 
-    
+    #the inequality sign gets flipped when you ➜ divide by a negative number
+
 '''
 next
 '''
@@ -433,7 +433,7 @@ next
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     [6 ≤ w]
-    
+
 '''
 next
 '''
@@ -442,12 +442,12 @@ next
 
     #union combines all elements from both sets, without duplicates
     M ∪ I = {(-2), 0, 1, 3, 5, 6, 7}
-    
+
     #intersection includes only elements that are in both sets
     M ∩ I = {1, 7}
 
     #the phrasing is (elements) not (terms) because ➜ sets contain distinct elements, not algebraic terms
-    
+
 '''
 next
 '''
@@ -459,7 +459,7 @@ next
 
     #intersection includes only elements that are in both sets
     E ∩ G = {g}
-    
+
 '''
 next
 '''
@@ -471,7 +471,7 @@ next
 
     #intersection includes only elements that are in both sets
     A ∩ L = {h}
-    
+
 '''
 next
 '''
@@ -483,7 +483,7 @@ next
 
     #intersection includes only elements that are in both sets
     I ∩ H = {2, 3, 7}
-    
+
 '''
 next
 '''
@@ -508,7 +508,7 @@ next
     4x + (-5)  =  (-4x + 9)
   + 4x            + 4x
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- 
+
     8x + (-5)  =  9
          + 5    + 5
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -522,7 +522,7 @@ next
     [x  =  7 ÷ 4]
 
 #the cases are like an 'OR' logic path ➜ does case-1 have a solution? no. does case-2 have a solution? yes ➜ that solution becomes the only solution for the entire equation
-    
+
 '''
 next
 '''
@@ -571,7 +571,7 @@ next
     #two solutions ➜
     [x  =  2 ÷ 3]
     [x  =  (-8)]
-    
+
 '''
 next
 '''
@@ -608,26 +608,26 @@ next
 
     #one solution ➜
     [u  =  (-3) ÷ 2 ]
-     
+
  '''
  next
  '''
-     (-3)  <  3x + 3  <  9          
+     (-3)  <  3x + 3  <  9
      (-3)        (-3)  (-3)
- #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     
-  
+ #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
      (-6)  <  3x  <  6
      ÷ 3    ÷ 3    ÷ 3
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  
+
      (-2)  <  x  <  2
-    
+
 '''
 next
 '''
     4x + (-4)  >  12   or   2x + 4  ≤  (-2)
 
-    4x + (-4)  >  12 
+    4x + (-4)  >  12
          + 4     + 4
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -650,11 +650,11 @@ next
 
     #solution set ➜
     [x  ≤  (-3)] or [x  >  4]
-    
+
 '''
 next
 '''
-    (-2)  <  2x + (-2)  ≤  10 
+    (-2)  <  2x + (-2)  ≤  10
     + 2           + 2     + 2
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -663,7 +663,7 @@ next
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     [0  <  x  ≤  6]
-     
+
 '''
 next
 '''
@@ -686,7 +686,7 @@ greater than ➜ great-OR than ➜ [or] statement
 
     #solution set ➜
     [y  <  (-2)] or [y  >  8]
-     
+
 '''
 next
 '''
@@ -711,13 +711,13 @@ less than ➜ less-th-AND ➜ [and] statement
     #solution set ➜
     [y  ≥  6] and [y  ≤  10]
     [6  ≤  y  ≤  10]
-    
+
 '''
 next
 '''
 '''
 less than ➜ less-th-AND ➜ [and] statement
-'''     
+'''
     | w + 2 |  <  4
 
 #positive direction ➜
@@ -735,7 +735,7 @@ less than ➜ less-th-AND ➜ [and] statement
     #solution set ➜
     [w  >  (-6)] and [w  <  2]
     [(-6)  <  w  <  2]
-    
+
 '''
 next problem
 '''
@@ -755,7 +755,7 @@ next problem
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     v  =  (5/38)
-    
+
 '''
 next problem
 '''
@@ -768,23 +768,23 @@ next problem
         + 12u + (-35)   =   + 12u + (-35)
   #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    (-65)   =   32u 
+    (-65)   =   32u
         / 32   =   /32
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     (-65/32)   =   u
-     
+
  '''
  next problem
  '''
     (7/2)x + (-2/3)   =   (-5x) + (-7/3)
 
     # LCD = 6
-    # multiply all terms by 6 ➜ 
+    # multiply all terms by 6 ➜
 
     6 * [(7/2)x + (-2/3)]   =   6 * [(-5x) + (-7/3)]
 
-    # distribute the 6 to all terms ➜ 
+    # distribute the 6 to all terms ➜
     21x + (-4)   =   (-30x) + (-14)
         + 30x + 4   =   + 30x + 4
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -794,12 +794,12 @@ next problem
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     x   =   (-10/51)
-    
+
 '''
 next problem
 '''
 #Solving a compound linear inequality: Interval notation
-    2w + 3   ≤   9     
+    2w + 3   ≤   9
         + (-3)   ≤   + (-3)
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -818,23 +818,23 @@ next problem
     3w   <   18
         / 3   <   /3
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    
+
     w   <   18/3
-    w   <   6   
-    
-# solution set ➜ 
+    w   <   6
+
+# solution set ➜
     w   ≤   3   or    w   <   6
 
-# any number that is ≤ 3 is *ALREADY* ≤ 6  
+# any number that is ≤ 3 is *ALREADY* ≤ 6
 
 # therefore, the region w < 6 completely swallows up and includes the region w ≤ 3
 
-# the combined total solution is simply ➜  
+# the combined total solution is simply ➜
     w < 6
 
-# interval notation ➜ 
+# interval notation ➜
     (-∞,6)
-    
+
 '''
 next problem
 '''
@@ -845,27 +845,27 @@ next problem
     4v   ≤   24
       / 4   ≤   / 4
  #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    v   ≤   (24/4)   
+    v   ≤   (24/4)
 
-    # divide by GCF ➜ 4   
-    v   ≤   6      
+    # divide by GCF ➜ 4
+    v   ≤   6
 
     or
 
-    2v + (-3)   >   1    
+    2v + (-3)   >   1
       + 3   >   + 3
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    2v    >   4     
+    2v    >   4
       / 2   >   / 2
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     v   >   2
 
-# solution set ➜ 
+# solution set ➜
     v   ≤   6  or  v   >   2
 
-# interval notation; every single number on the number line is included ➜ 
+# interval notation; every single number on the number line is included ➜
     (-∞, ∞)
-    
+
 '''
 next problem
 '''
@@ -874,7 +874,7 @@ next problem
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # dividing an inequality by a negative number ➜ flips the inequality sign
-    y   >   3      
+    y   >   3
 
     or
 
@@ -882,11 +882,11 @@ next problem
       + (-2)    <   + (-2)
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    3y    <   (-15)      
+    3y    <   (-15)
       / 3   <   / 3
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    y   <   (-5)  
+    y   <   (-5)
 
     # solution set
     y   <   (-5)   or   y   >   3
@@ -895,11 +895,120 @@ next problem
 
     # "or" ➜ ∪
     (-∞, (-5)) ∪ (3, ∞)
-       
+
+'''
+Next problem:
+➜ Find the solution for u ~ two fractions with binomials equaling each other
+'''
+    5 / (u + 3)   =   [5 / (3u + 9)] + (-2)
+
+# TODO: EXAM_FRACTIONS_MULTIPLYING_SUBSTITUTION_WITH_FACTORING
+
+# instead of dealing with fractions right away, look at the equation structure
+
+# notice that the block ➜
+    5 / (u + 3)
+# appears on both sides of the equation
+
+# create a variable called factor to represent that block ➜
+    factor = 5 / (u + 3)
+
+# plug factor back into the equation in place of: 5 / (u + 3) ➜
+    factor = (1/3)factor + (-2)
+
+# TODO: EXAM_FRACTIONS_MULTIPLYING_REVEAL_THE_HIDDEN_1*n
+
+# revealing the hidden "1 * ()" works for both numerators and denominators
+
+# reveal the hidden 1 being multiplied by 5 on the top and reveal the hidden (*) symbol between the 3 and the binomial (u + 3) ➜
+    1 * 5
+━━━━━━━
+  3 * (u + 3)
+# the same as ➜ ➜ ➜
+    1             5
+━━━━━  *  ━━━━━
+    3           (u + 3)
+# now that the fraction is split into its factors, substitute the factor back into the equation ➜
+                1
+factor  =   ━━━━━ factor + (-2)
+                3
+
+# move the ➜
+    (1/3)factor
+# to the left side of the equation by subtracting it from both sides
+
+# TODO: EXAM_FRACTIONS_MULTIPLYING_REVEAL_HIDDEN_(1=n/n)
+
+# reveal the hidden (3/3) in front of factor on the left side of the equation ➜
+    (3/3)factor + [-(1/3)factor]   =   (-2)
+      ➜  (3/3) + (-1/3) = (2/3)  ➜
+      (2/3)factor   =   (-2)
+# to isolate factor, multiply both sides by the reciprocal (3/2)
+    (3/2) * (2/3)factor   =   (3/2) * (-2)
+
+# TODO: EXAM_FRACTIONS_MULTIPLYING_USING_EQUIVALENT_FRACTIONS
+# ➜ rewrite (-2) as (-4/2)
+    (3/2) * (2/3)factor   =   (3/2) * (-4/2)
+
+    ➜  (3/2) and (2/3) cancel out
+    ➜  numerators 3 * (-4) = (-12)
+    ➜  denominators 2 * 2 = 4
+
+    factor = (-12) / 4
+    factor = (-3)
+
+# now set the value of factor equal to its definition ➜
+    (-3) = 5 / (u + 3)
+
+# clear the fraction by multiplying both sides by (u + 3)
+    (u + 3)*[(-3)]   =   (u + 3)*[5 / (u + 3)]
+
+# for the right side, reveal the hidden 1 ➜
+        u + 3         5
+      ━━━━━ * ━━━━━
+          1         u + 3
+# the top and bottom (u + 3) cancel out, leaving only the 5 numerator
+    (-3)(u + 3)   =   5
+
+# distribute the (-3) on the left side
+    (-3u) + (-9)   =   5
+
+# add 9 on both sides
+    (-3u) + (-9)   =   5
+      + 9   =   + 9
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    (-3u)   =   14
+
+# divide both sides by (-3)
+    (-3u)   =   14
+      / (-3)   =   / (-3)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    [u = (-14/3)]
+
+# TODO: EXAM_FRACTIONS_EQUATIONS_LCD_NUCLEAR_METHOD
+" ➜  3 step shortcut to dissolve fractions in an equation"
+    " ➜  find the LCD of the whole equation"
+    " ➜  multiply every single term by that LCD immediately"
+    " ➜  watch the fractions dissappear"
 
 
-    
-      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

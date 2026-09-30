@@ -775,7 +775,28 @@ next problem
 
 # parallel line slope ➜ same
 # perpendicular line slope ➜ negative reciprocal
-    m = 1/2   
+    [m = 1/2]   
+    
+'''
+Next problem:
+➜ Find the domain & range of the graphed function g using interval notation:
+'''
+
+# TODO: EXAM_DOMAIN_RANGE_GRAPHED_FUNCTION_INTERVAL_NOTATION 
+
+# graph starts horizontally at x = (-4) with a closed circle, so (-4) is included ➜ 
+# graph ends horizontally at x = 5 with an open circle, so 4 is not included ➜ 
+    function_domain = [(-4), 4)
+
+# graph starts vertically at (-5) with open circle, so (-5) is not included ➜ 
+# graph ends vertically at 3 with closed circle, so 3 is included 
+    function_range = ((-5), 3]
+
+
+
+
+
+
 
 
 
