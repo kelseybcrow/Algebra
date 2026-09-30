@@ -562,7 +562,7 @@ next problem
             ➜
 
 # point-slope formula
-    (y - 4) = m * (x - (-5))    
+    (y - y₁) = m * (x - x₁)      
 
     (y - 4) = (-2/3) * (x - (-5))    
 
@@ -604,7 +604,7 @@ next problem
             (x₂ - x₁)  
 
 # point-slope formula ➜
-    (y - y1) = m * (x - x1)    
+    (y - y₁) = m * (x - x₁)  
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -623,7 +623,7 @@ next problem
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
             ➜
 # point-slope formula
-    (y - 4) = m * (x - (-1))    
+    (y - y₁) = m * (x - x₁)  
 
     (y - 4) = (5/2) * (x - (-1))    
 
@@ -647,8 +647,135 @@ next problem
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     y   =   (5/2)x + (13/2)    
+    
+'''
+next problem
+'''
+# Writing the equation of a line through two given points
+    ((-1), 2)
+    ((5), (4))
 
+# use two formulas in sequence ➜ 
 
+# slope formula ➜ 
+    slope = (y₂ - y₁)
+          #━━━━━━━━━━━
+            (x₂ - x₁)  
+
+# point-slope formula ➜
+    (y - y₁) = m * (x - x₁)    
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    slope = (4 - 2)
+          #━━━━━━━━━━━
+            (5 - (-1))  
+
+    slope = 2
+          #━━━━━━
+            6  
+
+    # divide by GCF            
+
+    slope = (1/3)
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            ➜
+# point-slope formula
+    (y - y₁) = m * (x - x₁)    
+
+    (y - 2) = (1/3) * (x - (-1))    
+
+# double negative ➜ becomes positive
+    (y - 2) = (1/3) * (x + 1)    
+
+# use Clearing the Denominator shortcut; multiply both sides by the denominator ➜   
+    3 * [(y - 2)]   =   3 * [ (1/3) * (x + 1) ]   
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# since the slope and the binomial are being multiplied instead of added, we do NOT distribute the 3 to both terms 
+
+    3y + (-6)   =   1 * (x + 1)
+
+    3y + (-6)   =   x + 1
+       + 6   =    + 6
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    3y   =   x + 7
+     / 3  =   / 3   
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    y   =   (1/3)x + (7/3)    
+
+# TODO: EXAM_SLOPE_INTERCEPT_FORMULA
+    y   =   mx + b
+      
+'''
+next problem
+'''
+# TODO: EXAM_EQUATIONS_VERTICAL_HORIZONTAL_LINES_THRU_SINGLE_POINT
+
+# Writing the equations of vertical and horizontal linesthrough a given point   
+    ((-8), (-2))
+
+# vertical lines have the same x-coordinate for every point, therefore ➜ 
+    x = (-8)
+# horizontal lines have the same y-coordinate for every point, therefore ➜ 
+    y = (-2)
+    
+'''
+next problem
+'''
+# Finding slopes of lines parallel and perpendicular to a line in standard form ➜ ax + by = c
+    4x + (-3y)   =   7
+
+# TODO: EXAM_SLOPE_SHORTCUT_LINE_IN_STANDARD_FORM
+
+    m = -(a/b)
+
+    a = 4
+    b = (-3)
+
+    m = -(4/(-3))
+
+# double negative equals positive
+
+    m = (4/3)
+
+# TODO: EXAM_SLOPE_PARALLEL_PERPENDICULAR_LINES
+
+# slope of parallel line ➜ same slope
+# slope of perpendicular line ➜ reciprocal of slope and change the sign (negative reciprocal)
+    m = -(3/4)
+    
+'''
+next problem
+'''
+    7x + 9y   =   7 
+    a = 7
+    b = 9
+
+    m = -(a/b)
+    m = -(7/9)
+
+# parallel line slope ➜ same
+# perpendicular line slope ➜ negative reciprocal
+    m = (9/7)    
+    
+'''
+next problem
+'''
+    6x + 3y = 9
+    a = 6
+    b = 3
+
+    m = -(a/b)
+    m = -(6/3)
+    m = (-2)
+
+# parallel line slope ➜ same
+# perpendicular line slope ➜ negative reciprocal
+    m = 1/2   
 
 
 
