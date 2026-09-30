@@ -986,27 +986,66 @@ factor  =   ━━━━━ factor + (-2)
 
     [u = (-14/3)]
 
-# TODO: EXAM_FRACTIONS_EQUATIONS_LCD_NUCLEAR_METHOD
+# TODO: EXAM_CLEAR_FRACTIONS_BY_LCD
 " ➜  3 step shortcut to dissolve fractions in an equation"
     " ➜  find the LCD of the whole equation"
     " ➜  multiply every single term by that LCD immediately"
     " ➜  watch the fractions dissappear"
+'''
+The same problem but done the LCD way:
+➜ Find the solution for u ~ two fractions with binomials equaling each other
+'''
+    5 / (u + 3)   =   [5 / (3u + 9)] + (-2)
 
+# denominators are: (u + 3) and 3(u + 3)
+# find the LCD by factoring the larger denominator ➜
+    3u + 9 =
+    3(u + 3)
+    LCD = 3(u + 3)
 
+# TODO: EXAM_LCD_RULE
+" ➜  LCD is the smallest possible container in which all denominators must fit inside"
+    (u + 3) fits inside 3(u + 3)
+    3(u + 3) also fits inside 3(u + 3)
 
+# multiply every single term by the LCD ➜ 3(u + 3)
+    3(u + 3)*[5 / (u + 3)]   =   3(u + 3)*[5 / 3(u + 3)]  + 3(u + 3)*[-2]
 
+# TODO: EXAM_USING_VARIABLES_LEFT_RIGHT_SIDE_EQUATION
+ " ➜  the left_side and right_side variables make solving the equation in increments much easier to track ➜ "
 
+# on the left side, the (u + 3)'s in both the numerator and denominator cancel each other out, so now we're left with ➜
+    left_side = 3 * 5
+    left_side = 15
 
+# now for the right side ➜ in the first term, both 3(u + 3)'s cancel out ➜
+    right_side = 5   +   3(u + 3)*[-2]
 
+# TODO: EXAM_PEMDAS_ORDER_OF_OPERATIONS
+" ➜  parentheses, exponents, multiplying, dividing, adding, subtracting ➜ "
+" ➜  multiply the two plain outside numbers first ➜ it's a shortcut to turn two messy steps into one clean step ➜ "
+    right_side = 5   +   3(u + 3)*[-2]
+      3 * (-2) = (-6)
+    right_side = 5   +   (-6)(u + 3)
 
+# now distribute the (-6) ➜
+    right_side = 5 + (-6u) + (-18)
+    right_side = (-6u) + (-13)
 
+# now set both sides equal to each other ➜
+    left_side = 15
+    right_side = (-6u) + (-13)
 
+    15   =   (-6u) + (-13)
+      + 13   =   + 13
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    28   =   (-6u)
+      / (-6)   =   / (-6)
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-
-
-
+    (-28/6) = u
+    [(-14/3) = u]
 
 
 
