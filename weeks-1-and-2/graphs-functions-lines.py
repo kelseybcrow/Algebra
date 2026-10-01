@@ -9,11 +9,11 @@ function translation: [vertical] ➜
 
 function translation: [horizontal] ➜
     moving left  ➜  add units inside
-    moving right  ➜  subtract units inside 
-''' 
+    moving right  ➜  subtract units inside
+'''
     h(x)  =  4x² + (-1) + 3
     [h(x)  =  4x² + 2]
-          
+
 
 '''
 next problem
@@ -30,7 +30,7 @@ next problem
 '''
     vertical downward 4-units
 
-    f(x)  =  (-3x²) + 5 
+    f(x)  =  (-3x²) + 5
     f(x)  =  (-3x²) + 5 + (-4)
     [h(x)  =  (-3x²) + 1]
 
@@ -60,7 +60,7 @@ next problem
     y = (-2)(4)
     y = (-8)
     [(2), (-8)]
-    
+
     y = (-2)(-2)²
     y = (-2)(-8)
     [(-2), (-8)]
@@ -84,7 +84,7 @@ mirror the points across the vertical center line
     [-1, 1]
     [-2, 4]
     [-3, 9]
-    
+
 '''
 next problem
 '''
@@ -104,7 +104,7 @@ right 1, up (1÷3),(3÷3),(5÷3) shortcut
 next problem
 '''
 '''
-TRANSLATIONS CHEAT SHEET  
+TRANSLATIONS CHEAT SHEET
 
 vertical    ➜  y = f(x) + k
             ➜  affects the OUTSIDE of the function
@@ -128,7 +128,7 @@ horizontal  ➜  y = f(x - h)
 next problem
 '''
 '''
-TRANSLATIONS CHEAT SHEET  
+TRANSLATIONS CHEAT SHEET
 
 vertical    ➜  y = f(x) + k
             ➜  affects the OUTSIDE of the function
@@ -151,7 +151,7 @@ horizontal  ➜  y = f(x - h)
 next problem
 '''
 '''
-TRANSLATIONS CHEAT SHEET  
+TRANSLATIONS CHEAT SHEET
 
 vertical    ➜  y = f(x) + k
             ➜  affects the OUTSIDE of the function
@@ -168,7 +168,7 @@ horizontal  ➜  y = f(x - h)
     #it's subtraction inside the argument, so ➜ horizontal translation to the right by 5 units for each point on the graph
 
     y = g(x) + (-2)
-    #it's subtraction of the constant, so ➜ vertical translation downward by 2 units for each point on the graph   
+    #it's subtraction of the constant, so ➜ vertical translation downward by 2 units for each point on the graph
 '''
 next problem
 '''
@@ -232,7 +232,7 @@ next problem
 '''
     #endpoints with solid dots ➜ use []
     #endpoints with empty dots ➜ use ()
-    
+
     'domain' = [](-2), 3()
     'range' = [](-3), 5()
 
@@ -264,7 +264,7 @@ next problem
     h(16) = | ((-1) ÷ 4)(16) + (-16) |
     h(16) = | (-4) + (-16) |
     h(16) = | -20 |
-    [h(16) = 20] 
+    [h(16) = 20]
 
     #multiplying a whole number by a fraction ➜ the same as dividing the whole number by the denominator of the fraction and then multiplying it by the numerator
 
@@ -309,7 +309,7 @@ next problem
     [f(-3) = 4]
 
     g(2) = (x³ + 9) ÷ x³
-    find g(2) 
+    find g(2)
 
     = (2³ + 9) ÷ 2³
     = (8 + 9) ÷ 8
@@ -327,7 +327,7 @@ next problem
     = |(-8) + (-13)|
     = |-21|
     [h(12) = 21]
-    
+
 '''
 next problem
 '''
@@ -336,7 +336,7 @@ x-intercepts  =  ((-1), 0), (3, 0)
 
 y-intercepts  =  (0, (-3))
 
-    
+
 '''
 next problem
 '''
@@ -344,7 +344,7 @@ next problem
 x-intercepts  =  ((-2), 0), (4, 0)
 
 y-intercepts  =  (0, 2)
-    
+
 '''
 next problem
 '''
@@ -352,7 +352,7 @@ next problem
 x-intercepts  =  ((-2), 0)
 
 y-intercepts  =  (0, 2)
-    
+
 '''
 next problem
 '''
@@ -364,21 +364,21 @@ next problem
     b  =  3
     c  =  3
 
-#instead of rearranging the entire equation into slope-intercept form (y = mx + b) every time, you can find the answers directly using the coefficients ➜  
+#instead of rearranging the entire equation into slope-intercept form (y = mx + b) every time, you can find the answers directly using the coefficients ➜
 
-#slope ➜  
+#slope ➜
     m  =  - (a ÷ b)
 
     m  =  - (6 ÷ 3)
     m  =  - (2)
     m  =  (-2)
 
-#y-intercept ➜  
+#y-intercept ➜
     b  =  (c ÷ b)
 
     b  =  (3 ÷ 3)
     b  =  1
-    
+
 '''
 next problem
 '''
@@ -390,21 +390,21 @@ next problem
     b  =  (-1)
     c  =  1
 
-#instead of rearranging the entire equation into slope-intercept form (y = mx + b) every time, you can find the answers directly using the coefficients ➜  
+#instead of rearranging the entire equation into slope-intercept form (y = mx + b) every time, you can find the answers directly using the coefficients ➜
 
-#slope ➜  
+#slope ➜
     m  =  - (a ÷ b)
 
     m  =  - ((-5) ÷ (-1))
     m  =  - (5)
     m  =  (-5)
 
-#y-intercept ➜  
+#y-intercept ➜
     b  =  (c ÷ b)
 
     b  =  (1 ÷ (-1))
     b  =  (-1)
-    
+
 '''
 next problem
 '''
@@ -416,96 +416,96 @@ next problem
     b  =  (-2)
     c  =  4
 
-#instead of rearranging the entire equation into slope-intercept form (y = mx + b) every time, you can find the answers directly using the coefficients ➜  
+#instead of rearranging the entire equation into slope-intercept form (y = mx + b) every time, you can find the answers directly using the coefficients ➜
 
     a  =  3
     b  =  (-2)
     c  =  4
 
-#slope ➜  
+#slope ➜
     m  =  - (a ÷ b)
 
     m  =  - (3 ÷ (-2))
     m  =  - (- (3 ÷ 2))
-#double negatives turn into a positive ➜  
+#double negatives turn into a positive ➜
     [m  =  (3 ÷ 2)]
 
-#y-intercept ➜  
+#y-intercept ➜
     b  =  (c ÷ b)
 
     b  =  (4 ÷ (-2))
     [b  =  (-2)]
-    
+
 '''
 next problem
 '''
-#find x-intercept and y-intercept of the line using standard form ➜      
+#find x-intercept and y-intercept of the line using standard form ➜
     6x + 9y  =  (-14)
 
     a  =  6
     b  =  9
     c  =  (-14)
 
-#use the coefficients directly ➜  
-#x-intercept ➜  
+#use the coefficients directly ➜
+#x-intercept ➜
     x-cept  =  (c ÷ a)
 
     x-cept  =  ((-14) ÷ 6)
 
-#divide by gcf of 2 ➜  
+#divide by gcf of 2 ➜
     x-cept  =  ((-7) ÷ 3)
     [x-cept  =  (-(7 ÷ 3), 0)]
 
-#y-intercept ➜  
+#y-intercept ➜
     y-cept  =  (c ÷ b)
 
     y-cept  =  (0, (-14) ÷ 9)
-    
-#no gcf ➜  
+
+#no gcf ➜
     [y-cept  =  (0, -(14 ÷ 9)]
-    
+
 '''
 next problem
 '''
-#find x-intercept and y-intercept of the line using standard form ➜      
+#find x-intercept and y-intercept of the line using standard form ➜
     (-8x) + 3y  =  11
 
     a  =  (-8)
     b  =  3
     c  =  11
 
-#use the coefficients directly ➜  
-#x-intercept ➜  
+#use the coefficients directly ➜
+#x-intercept ➜
 
     x-cept  =  (c ÷ a)
 
     x-cept  =  (11 ÷ (-8))
     [x-cept  =  (-(11 ÷ 8), 0)]
 
-#y-intercept ➜  
+#y-intercept ➜
     y-cept  =  (c ÷ b)
 
     y-cept  =  (11 ÷ 3)
     [y-cept  =  (0, (11 ÷ 3))]
-    
+
 '''
 next problem
 '''
-#find x-intercept and y-intercept of the line using standard form ➜      
+#find x-intercept and y-intercept of the line using standard form ➜
     3x + (-2y)  =  (-8)
 
     a  =  3
     b  =  (-2)
     c  =  (-8)
 
-#use the coefficients directly ➜  
-#x-intercept ➜  
+#use the coefficients directly ➜
+#x-intercept ➜
 
     x-cept  =  (c ÷ a)
 
     [x-cept  =  ((-8) ÷ 3)]
 
-#y-intercept ➜  
+#y-intercept ➜
     y-cept  =  (c ÷ b)
 
     y-cept  =  ((-8) ÷ (-2))
@@ -513,7 +513,7 @@ next problem
 #divide by gcf of (-2) ➜
     y-cept  =  ((-8) ÷ (-2))
     [y-cept  =  (4 ÷ 1)]
-    
+
 '''
 next problem
 '''
@@ -523,7 +523,7 @@ next problem
     p  =  (5, (-3))
 
 #use the manual rise over run trick
-    
+
 '''
 next problem
 '''
@@ -532,28 +532,28 @@ next problem
     ((-5), 4)
     (4, (-2))
 
-# use two formulas in sequence ➜ 
+# use two formulas in sequence ➜
 
-# slope formula ➜ 
+# slope formula ➜
     slope = (y₂ - y₁)
           #━━━━━━━━━━━
-            (x₂ - x₁)  
+            (x₂ - x₁)
 
             ➜
 # point-slope formula
-    (y - y₁) = m * (x - x₁)    
+    (y - y₁) = m * (x - x₁)
 
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    
+
     slope = ((-2) - 4)
           #━━━━━━━━━━━
-            (4 - (-5))  
+            (4 - (-5))
 
     slope = (-6)
           #━━━━━━
-            9  
+            9
 
-    # divide by GCF ➜ 3            
+    # divide by GCF ➜ 3
 
     slope = ((-2) / 3)
     slope = (-2/3)
@@ -562,21 +562,21 @@ next problem
             ➜
 
 # point-slope formula
-    (y - y₁) = m * (x - x₁)      
+    (y - y₁) = m * (x - x₁)
 
-    (y - 4) = (-2/3) * (x - (-5))    
+    (y - 4) = (-2/3) * (x - (-5))
 
 # double negative ➜ becomes positive
-    (y - 4) = (-2/3) * (x + 5)    
+    (y - 4) = (-2/3) * (x + 5)
 
 # TODO: EXAM_Clearing_Denominator_Shortcut
 
-# use Clearing the Denominator shortcut; multiply both sides by the denominator of 3 ➜     
-    3 * [(y - 4)]   =   3 * [(-2/3) * (x + 5)]   
+# use Clearing the Denominator shortcut; multiply both sides by the denominator of 3 ➜
+    3 * [(y - 4)]   =   3 * [(-2/3) * (x + 5)]
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# since the slope and the binomial are being multiplied instead of added, we do NOT distribute the 3 to both terms 
-    
+# since the slope and the binomial are being multiplied instead of added, we do NOT distribute the 3 to both terms
+
     3y + (-12)   =   (-2) * (x + 5)
 
     3y + (-12)   =   (-2x) + (-10)
@@ -587,8 +587,8 @@ next problem
       / 3   =   / 3
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    y   =   (-2/3)x + (2/3)      
-    
+    y   =   (-2/3)x + (2/3)
+
 '''
 next problem
 '''
@@ -596,45 +596,45 @@ next problem
     ((-1), 4)
     ((-5), (-6))
 
-# use two formulas in sequence ➜ 
+# use two formulas in sequence ➜
 
-# slope formula ➜ 
+# slope formula ➜
     slope = (y₂ - y₁)
           #━━━━━━━━━━━
-            (x₂ - x₁)  
+            (x₂ - x₁)
 
 # point-slope formula ➜
-    (y - y₁) = m * (x - x₁)  
+    (y - y₁) = m * (x - x₁)
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     slope = ((-6) - 4)
           #━━━━━━━━━━━
-            ((-5) - (-1))  
+            ((-5) - (-1))
 
     slope = (-10)
           #━━━━━━
-            (-4)  
+            (-4)
 
-    # divide by GCF ➜ 2            
+    # divide by GCF ➜ 2
 
     slope = (5/2)
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
             ➜
 # point-slope formula
-    (y - y₁) = m * (x - x₁)  
+    (y - y₁) = m * (x - x₁)
 
-    (y - 4) = (5/2) * (x - (-1))    
+    (y - 4) = (5/2) * (x - (-1))
 
 # double negative ➜ becomes positive
-    (y - 4) = (5/2) * (x + 1)    
+    (y - 4) = (5/2) * (x + 1)
 
-# use Clearing the Denominator shortcut; multiply both sides by the denominator of 2 ➜   
-    2 * [(y - 4)]   =   2 * [ (5/2) * (x + 1) ]   
+# use Clearing the Denominator shortcut; multiply both sides by the denominator of 2 ➜
+    2 * [(y - 4)]   =   2 * [ (5/2) * (x + 1) ]
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# since the slope and the binomial are being multiplied instead of added, we do NOT distribute the 3 to both terms 
+# since the slope and the binomial are being multiplied instead of added, we do NOT distribute the 3 to both terms
 
     2y + (-8)   =   5 * (x + 1)
 
@@ -643,11 +643,11 @@ next problem
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     2y   =   (5x) + 13
-     / 2  =   / 2   
+     / 2  =   / 2
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    y   =   (5/2)x + (13/2)    
-    
+    y   =   (5/2)x + (13/2)
+
 '''
 next problem
 '''
@@ -655,45 +655,45 @@ next problem
     ((-1), 2)
     ((5), (4))
 
-# use two formulas in sequence ➜ 
+# use two formulas in sequence ➜
 
-# slope formula ➜ 
+# slope formula ➜
     slope = (y₂ - y₁)
           #━━━━━━━━━━━
-            (x₂ - x₁)  
+            (x₂ - x₁)
 
 # point-slope formula ➜
-    (y - y₁) = m * (x - x₁)    
+    (y - y₁) = m * (x - x₁)
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     slope = (4 - 2)
           #━━━━━━━━━━━
-            (5 - (-1))  
+            (5 - (-1))
 
     slope = 2
           #━━━━━━
-            6  
+            6
 
-    # divide by GCF            
+    # divide by GCF
 
     slope = (1/3)
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
             ➜
 # point-slope formula
-    (y - y₁) = m * (x - x₁)    
+    (y - y₁) = m * (x - x₁)
 
-    (y - 2) = (1/3) * (x - (-1))    
+    (y - 2) = (1/3) * (x - (-1))
 
 # double negative ➜ becomes positive
-    (y - 2) = (1/3) * (x + 1)    
+    (y - 2) = (1/3) * (x + 1)
 
-# use Clearing the Denominator shortcut; multiply both sides by the denominator ➜   
-    3 * [(y - 2)]   =   3 * [ (1/3) * (x + 1) ]   
+# use Clearing the Denominator shortcut; multiply both sides by the denominator ➜
+    3 * [(y - 2)]   =   3 * [ (1/3) * (x + 1) ]
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# since the slope and the binomial are being multiplied instead of added, we do NOT distribute the 3 to both terms 
+# since the slope and the binomial are being multiplied instead of added, we do NOT distribute the 3 to both terms
 
     3y + (-6)   =   1 * (x + 1)
 
@@ -702,27 +702,27 @@ next problem
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     3y   =   x + 7
-     / 3  =   / 3   
+     / 3  =   / 3
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    y   =   (1/3)x + (7/3)    
+    y   =   (1/3)x + (7/3)
 
 # TODO: EXAM_SLOPE_INTERCEPT_FORMULA
     y   =   mx + b
-      
+
 '''
 next problem
 '''
 # TODO: EXAM_EQUATIONS_VERTICAL_HORIZONTAL_LINES_THRU_SINGLE_POINT
 
-# Writing the equations of vertical and horizontal linesthrough a given point   
+# Writing the equations of vertical and horizontal linesthrough a given point
     ((-8), (-2))
 
-# vertical lines have the same x-coordinate for every point, therefore ➜ 
+# vertical lines have the same x-coordinate for every point, therefore ➜
     x = (-8)
-# horizontal lines have the same y-coordinate for every point, therefore ➜ 
+# horizontal lines have the same y-coordinate for every point, therefore ➜
     y = (-2)
-    
+
 '''
 next problem
 '''
@@ -747,11 +747,11 @@ next problem
 # slope of parallel line ➜ same slope
 # slope of perpendicular line ➜ reciprocal of slope and change the sign (negative reciprocal)
     m = -(3/4)
-    
+
 '''
 next problem
 '''
-    7x + 9y   =   7 
+    7x + 9y   =   7
     a = 7
     b = 9
 
@@ -760,8 +760,8 @@ next problem
 
 # parallel line slope ➜ same
 # perpendicular line slope ➜ negative reciprocal
-    m = (9/7)    
-    
+    m = (9/7)
+
 '''
 next problem
 '''
@@ -775,22 +775,9 @@ next problem
 
 # parallel line slope ➜ same
 # perpendicular line slope ➜ negative reciprocal
-    [m = 1/2]   
-    
-'''
-Next problem:
-➜ Find the domain & range of the graphed function g using interval notation:
-'''
+    [m = 1/2]
 
-# TODO: EXAM_DOMAIN_RANGE_GRAPHED_FUNCTION_INTERVAL_NOTATION 
 
-# graph starts horizontally at x = (-4) with a closed circle, so (-4) is included ➜ 
-# graph ends horizontally at x = 5 with an open circle, so 4 is not included ➜ 
-    function_domain = [(-4), 4)
-
-# graph starts vertically at (-5) with open circle, so (-5) is not included ➜ 
-# graph ends vertically at 3 with closed circle, so 3 is included 
-    function_range = ((-5), 3]
 
 
 
