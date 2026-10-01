@@ -223,9 +223,9 @@ Next problem:
 # use the quadratic formula ➜
 # TODO: EXAM1_QUADRATIC_FORMULA
 
-         x  =  (-b) ± √‾‾[b² + (-4)ac]
-         #━━━━━━━━━━━━━━━━━━━━━━━━━━
-                    2a
+    w  =  (-b) ± √‾‾[b² + (-4)ac]
+    #━━━━━━━━━━━━━━━━━━━━━━━━━━
+               2a
     a = (-5)
     b = 14
     c = 3
@@ -233,43 +233,65 @@ Next problem:
 # TODO: EXAM1_CAREFUL_4_AND_a_LOOK_SIMILAR
 ' ➜ the 4/a similarity is especially tricky when using quadratic formulas ➜'
 
-         x  =  (-14) ± √‾‾[14² + (-4)(-5)3]
-         #━━━━━━━━━━━━━━━━━━━━━━━━━━
-                    2(-5)
+    w  =  (-14) ± √‾‾[14² + (-4)(-5)3]
+    #━━━━━━━━━━━━━━━━━━━━━━━━━━
+               2(-5)
     14² = 196
     (-4) * (-5) * 3 = 60
     196 + 60 = 256
 
     2 * (-5) = (-10)
 
-    x  =  (-14) ± √‾‾[256]
+    w  =  (-14) ± √‾‾[256]
          #━━━━━━━━━━━━━━━━━━━━━━━━━━
                     (-10)
 
     √‾‾‾[256] = 16
 
-    x  =  (-14) + 16
+    w  =  (-14) + 16
          #━━━━━━━━━━━━━
               (-10)
 
-# split into [+][-] cases
-# [+] case ➜
-     x  =  (-14) + √‾‾[256]
-         #━━━━━━━━━━━━━━━━━━━━━━━━━━
-                    (-10)
+" split into [+][-] cases: "
+" [+] case ➜ "
 
+    w  =  (-14) + 16
+         #━━━━━━━━━━━━━
+              (-10)
 
+    [w = (-1/5)]
 
+# perfect example of saving time and reducing the risk of error by plugging this whole thing into a calculator ➜ using parentheses for order of operations
 
+" [-] case ➜ "
 
+    w  =  (-14) + (-16)
+         #━━━━━━━━━━━━━
+              (-10)
 
+# plug into calculator ➜
+    w = 3
 
+# final solution ➜
+    [w = (-1/5), 3]
 
-# [-] case ➜
+# TODO: EXAM1_CAREFUL_INPUT_PARENTHESES_FIRST_INTO_CALCULATOR_THEN_FILL_IN_VALUES
+' ➜ helps reduce the risk of incorrectly defining the order of operations for the calculator and therefore trigging a wrong answer '
 
-     x  =  (-14) - √‾‾[256]
-         #━━━━━━━━━━━━━━━━━━━━━━━━━━
-                    (-10)
+# solving this problem via factoring would have been slower because ➜
 
+" when the leading coefficient is not 1 ➜ factoring requires a tedious process of factoring by grouping ➜ [the ac method] "
+
+# TODO: EXAM1_QUADRATIC_USING_FACTORING_TO_SOLVE_THE_AC_METHOD
+" ➜ the ac method ➜ "
+# find a =  , b =  , c =
+# multiply a * c to get target_number
+# find 2 numbers where num_1 * num_2 = target_number AND num_1 + num_2 = b
+# split the middle term
+# group into pairs
+# factor each pair by extracting the GCF
+# group the factors into binomials
+# set each binomial factor equal to zero
+# solve both mini-equations
 
 
